@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Augusto ! 
 
 - Currently working on strengthening my knowledge at all times 🧠
 - Currently learning JavaScript & React 👓
