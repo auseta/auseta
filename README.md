@@ -4,7 +4,6 @@
 - Currently learning JavaScript & React 👓
 - Looking to collaborate on projects that promote my career in the IT industry 🚀
 - How to reach me: https://www.linkedin.com/in/augusto-seta/ 🤓
-- Pronouns: he/they ✨ 
 - Fun fact: i love 80's music 🎶
 
 <!--
