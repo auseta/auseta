@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on improving my skills and aptitudes<br>👯 I am looking to collaborate in companies to be able to develop professionally<br>🤝 I’m looking for help with<br>🌱 I’m currently learning ReactJs<br>💬 Find me here: https://www.linkedin.com/in/augusto-seta/<br>⚡ Fun fact: there is no fun fact 🧐
+🔭 I am currently working on improving my skills and aptitudes<br>👯 I am looking to collaborate in companies to be able to develop professionally<br>🌱 I’m currently learning ReactJs<br>💬 Find me here: https://www.linkedin.com/in/augusto-seta/<br>⚡ Fun fact: there is no fun fact 🧐
 
 
 ## 🌐 Socials:
