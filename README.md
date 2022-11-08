@@ -1,4 +1,4 @@
-## Hey 👋, I'm Augusto Set!  
+## Hey 👋, I'm Augusto Seta!  
   
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/augusto-seta/" target="_blank">
