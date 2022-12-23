@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=auseta" alt="auseta" /></a> </p>
 
-- 🔭 I’m currently working on [My Weather App](https://github.com/auseta/Weather-App-Project)
+- 🔭 I’m currently working on [Memory Game App](https://github.com/auseta/memory-game-project)
 
 - 🌱 I’m currently learning **React**
 
