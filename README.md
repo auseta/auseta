@@ -3,7 +3,7 @@
 <table>
 		<tr>
 			<td>
-				<img width='500px' 	src='https://24.media.tumblr.com/466f33e59dbb8d5682d17ca57ae53e00/tumblr_n594zqluJ31rpfk7eo1_500.gif' alt='programmer-lair'/>
+				<img width='300px' 	src='https://24.media.tumblr.com/466f33e59dbb8d5682d17ca57ae53e00/tumblr_n594zqluJ31rpfk7eo1_500.gif' alt='programmer-lair'/>
 			</td>
 			<td>
 				<b>
