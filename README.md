@@ -1,5 +1,29 @@
-<h1 align="center">Hi 👋, I'm Augusto Seta</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+# Hello and welcome to my Github profile!
+
+<table>
+		<tr>
+			<td>
+				<img width='500px' 	src='https://24.media.tumblr.com/466f33e59dbb8d5682d17ca57ae53e00/tumblr_n594zqluJ31rpfk7eo1_500.gif' alt='programmer-lair'/>
+			</td>
+			<td>
+				<b>
+					<i>
+									Hello, my name is Augusto Seta and I am a self-taught frontend developer. 		I'm not a person who likes to sit still, so I always find myself learning new things!
+					</i>
+				</b>
+			</td>
+		</tr>	
+</table>
+
+*“_We can only see_ a _short_ distance ahead, _but we can see_ plenty _there_ that needs to be done.” - **Alan Turing***
+
+## I am a young technology professional who spends nearly every day coding and learning web development.
+
+If you peruse my repositories you'll find many unique projects, from a [Dark Souls Memory Card Game](https://auseta.github.io/memory-game-project/) to a [Shopping Cart Page](https://auseta.github.io/shopping-cart-project/#/). 
+
+### Be curious and look around!
+
+If you have any questions, concerns, or criticism feel free to message me whenever and whatever you like!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auseta&label=Profile%20views&color=0e75b6&style=flat" alt="auseta" /> </p>
 
