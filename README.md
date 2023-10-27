@@ -8,7 +8,7 @@
 			<td>
 				<b>
 					<i>
-									Hello, my name is Augusto Seta and I am a self-taught frontend developer. 		I'm not a person who likes to sit still, so I always find myself learning new things!
+									Hello, my name is Augusto Seta and I am a self-taught web developer. 		I'm not a person who likes to sit still, so I always find myself learning new things!
 					</i>
 				</b>
 			</td>
